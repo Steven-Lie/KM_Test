@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="selectedUser">Selected User Name</string>
+    <string name="chooseUser">Choose a User</string>
+    <string name="fullname">Firstname Lastname</string>
+    <string name="email">email@email.com</string>
+    <string name="secondScreen">Second Screen</string>
+    <string name="thirdScreen">Third Screen</string>
+    <string name="avatar">Avatar</string>
+    <string name="isPalindrome">%s is a palindrome</string>
+    <string name="isNotPalindrome">%s is not a palindrome</string>
+    <string name="result">Check Result</string>
+    <string name="ok">OK</string>
+</resources>
